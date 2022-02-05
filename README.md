@@ -1,2 +1,2 @@
-# makeTodoListByReact2
+# ReactTodoList
 Created with CodeSandbox
